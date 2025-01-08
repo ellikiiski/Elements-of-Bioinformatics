@@ -1,0 +1,11 @@
+a1 b1 {'cost':7}
+a1 b2 {'cost':3}
+a1 star {'cost':10}
+a2 b1 {'cost':4}
+a2 b2 {'cost':3}
+a2 b3 {'cost':5}
+a2 star {'cost':10}
+a3 b3 {'cost':4}
+a3 star {'cost':10}
+a4 b3 {'cost':6}
+a4 star {'cost':10}

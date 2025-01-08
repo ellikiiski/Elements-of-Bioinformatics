@@ -1,0 +1,11 @@
+s a {'weight':3}
+s c {'weight':4}
+e s {'weight':1}
+e a {'weight':2}
+a b {'weight':4}
+a d {'weight':5}
+c d {'weight':2}
+b t {'weight':1}
+d t {'weight':4}
+d f {'weight':1}
+t f {'weight':3}
