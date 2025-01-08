@@ -2,7 +2,7 @@
 
 Univeristy of Helsinki, course Elements of Bioinformatics. Coding exercises.
 
-Don't blame me, I hate the numbering as much as the next guy...
+Don't blame me, I hate the numbering more than you...
 
 #### EXERCISES
 - [Basic sequence statistics](https://github.com/ellikiiski/Elements-of-Bioinformatics/tree/main/A2%20(Basic%20sequence%20statistics%20etc.)) (A2)
